@@ -1,0 +1,5 @@
+http://mvnrepository.com => mybatis검색 => mybatis-3.5.13.jar파일다운
+mybatisjava 프로젝트생성
+mapper 패키기 생성
+	1. mybatis-config.xml 파일 생성=> db접속환경설정
+	2. MemberMapper1.xml 파일 생성 => sql 구문 저장파일. (mapper 파일)
